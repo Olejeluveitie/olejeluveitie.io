@@ -1,0 +1,99 @@
+style.css
+
+body {
+  margin: 0;
+  font-size: 18px;
+  color: #333;
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+h1 {
+  margin-top: 50px;
+  margin-bottom: 10px;
+  font-size: 60px;
+  text-align: center;
+}
+
+h2 {
+  margin-top: 0;
+  padding-bottom: 30px;
+  font-size: 25px;
+  border-bottom: 2px solid #e3e3e3;
+  text-align: center;
+}
+
+main {
+  width: 900px;
+  margin: auto;
+}
+
+section {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 0;
+  margin-right: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+section h2 {
+  padding: 0;
+  text-align: left;
+  border: none;
+}
+
+ul{
+  margin-bottom: 10px;
+}
+//
+
+body {
+  margin: 0;
+  font-size: 18px;
+  color: #333;
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+h1 {
+  margin: 50px 0 10px;
+  font-size: 60px;
+  text-align: center;
+}
+
+h2 {
+  margin: 0;
+  padding-bottom: 30px;
+  font-size: 25px;
+  border-bottom: 2px solid #e3e3e3;
+  text-align: center;
+}
+
+main {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+section {
+  margin: 50px 0;
+  padding: 0 50px;
+}
+
+section h2 {
+  padding: 0;
+  text-align: left;
+  border: none;
+}
+
+ul {
+    list-style-type: disc; /* Можно изменить на другой стиль списка */
+    padding-left: 20px; /* Добавляем отступ слева для списка */
+    margin-bottom: 10px; /* Устанавливаем нижний отступ для списка */
+}
+
+li {
+    margin-bottom: 10px; /* Отступ между элементами списка */
+}
